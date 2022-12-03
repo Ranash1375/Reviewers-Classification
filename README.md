@@ -1,4 +1,4 @@
-# Reviewrs-Classification
+# Reviewers-Classification
 Company Background
 EMO is a manufacturer of motorcycles. The company successfully launched its first electric moped in India in 2019. The product team knows how valuable owner reviews are in making improvements to their mopeds.
 
